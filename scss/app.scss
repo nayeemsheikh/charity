@@ -1,0 +1,6 @@
+a{
+    background: red($color: #000000);
+    &:hover{
+        color: black;
+    }
+}
